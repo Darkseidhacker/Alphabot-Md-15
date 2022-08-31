@@ -21,18 +21,18 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername= "ᴹᴿ᭄ Darkseid ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://www.youtube.com/channel/UCfjMNznC1wPPnzZTXvdAKpQ" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.email = "naisond94@gmail.com" //bebas
+global.region = "Zimbabwe" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
 global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
